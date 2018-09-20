@@ -13,7 +13,7 @@ The file [football.dat](football.dat) contains the results from the English Prem
 ## Part Three: DRY Fusion
 Take the two programs written previously and factor out as much common code as possible, leaving you with two smaller programs and some kind of shared functionality.
 
-##  Kata Questions
+## Kata Questions
 To what extent did the design decisions you made when writing the original programs make it easier or harder to factor out common code?
 
 Was the way you wrote the second program influenced by writing the first?
