@@ -1,6 +1,6 @@
-# Vue Kata
+# Google Places API Kata
 
-This coding kata is intended to give you a small exercise that you can complete in your own time before attending a face to face interview with ONZO. 
+This coding kata is intended to give you a small exercise that you can complete in your own time before attending a face to face interview with ONZO.
 
 The idea is to provide you with a realistic scenario that lets you show off how skilled you are! We are expecting your code to be **production quality**
 
