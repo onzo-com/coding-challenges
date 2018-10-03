@@ -9,7 +9,7 @@ This coding kata will focus in on interacting with ONZO's [Engagement API](http:
 
 ## Ground Rules
 
-* Use the API documentation linked about
-* Communicate your thought process. This is about going on the journey together :-)
+* Use the API documentation linked above
+* Communicate your thought process. This is about going on the journey together
 * Use Google and documentation as you see fit (this isn't a memory test)
 * You can't curl, bash script or use postman
