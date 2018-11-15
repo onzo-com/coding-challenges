@@ -8,7 +8,7 @@ There are three parts to this Kata that work with real world data. Try hard not 
 ## Part One: Weather Data
 In [weather.dat](weather.dat) you’ll find daily weather data for Morristown, NJ for June 2002. 
 Download this text file, and write some code to:
-* output the minimum, maximum and avg temperatures for each day (columns 1,2,3)
+* output the minimum, maximum and avg temperatures for each day (hint: first four columns)
 * find the warmest day in the month
 * find the coolest day in the month
 * determine and output the day number (column one) with the smallest temperature spread (the maximum temperature is the second column, the minimum the third column)
