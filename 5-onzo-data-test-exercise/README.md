@@ -2,7 +2,7 @@
 
 In this challenge we will focus on our core data product: ONZO's [Engagement API](http://apidocs.onzodata.com/engagement/v2/). 
 
-##Context
+## Context
 
 We are developing a new feature that will add more information to the "Breakdown Details" response.
 
@@ -16,7 +16,7 @@ So I can help them plan for their energy expenditure over the winter months.
 
 The product owner has a list of items we need to add, and the first priority item is "hair dryers".
 
-##Task 1
+## Task 1
 As a test engineer, please:
 
 1. Prepare a test plan for this new feature (use whiteboard / notebook / paper as you see fit). How will you interact with 
@@ -58,7 +58,7 @@ the product owner, software engineering and customer success team?
 )
 ```
 
-##Task 2
+## Task 2
 1. Here is some sample API output from a request 
 to: `https://api.onzo.io/engagement/v2/breakdown/AGJLLCFHEJE/month/2018-11-09?fuel=elec&units=energy`  
 (_before the new feature has been implemented_):
