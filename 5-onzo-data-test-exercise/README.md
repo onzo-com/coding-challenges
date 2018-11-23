@@ -17,12 +17,16 @@ So I can help them plan for their energy expenditure over the winter months.
 The product owner has a list of items we need to add, and the first priority item is "hair dryers".
 
 ## Task 1
-As a test engineer, please:
+As a software test engineer:
 
-1. Prepare a test plan for this new feature (use whiteboard / notebook / paper as you see fit). How will you interact with 
-the product owner, software engineering and customer success team?
+1. Prepare a very high level test plan for this new feature (use whiteboard / notebook / paper as you see fit). 
 
-2. Considering the following function, prepare a set of automated test cases to cover what you consider critical.
+How will you interact with the product owner, software engineering and customer success team? 
+
+As a guide, spent approximately 15 minutes on this part.
+
+2. Consider the following Python function: prepare a set of automated test cases to cover what you consider critical.
+Please use whatever IDE or tooling you are most comfortable with.
 
 ```python
 
@@ -59,8 +63,8 @@ the product owner, software engineering and customer success team?
 ```
 
 ## Task 2
-1. Here is some sample API output from a request 
-to: `https://api.onzo.io/engagement/v2/breakdown/AGJLLCFHEJE/month/2018-11-09?fuel=elec&units=energy`  
+Here is some sample API output from a request 
+to: `https://api.onzo.io/engagement/v2/breakdown/$HOUSEHOLD_ID/month/2018-11-09?fuel=elec&units=energy`  
 (_before the new feature has been implemented_):
 
 ```json
@@ -117,11 +121,13 @@ to: `https://api.onzo.io/engagement/v2/breakdown/AGJLLCFHEJE/month/2018-11-09?fu
 ```
 
 
-a) How would you expect the data to look _after_ the feature has been implemented?
-b) How will you ensure the customer is getting what they want?
+1. How would you expect the data to look _after_ the feature has been implemented?
 
-2. Write an automated test to ensure the response is including the new feature.
-3. Bonus: what edge cases could be present? How would you defend for them with code?
+2. How will you ensure the customer is getting what they want?
+
+3. Write an automated test to ensure the response is including the new feature.
+
+4. Bonus: what edge cases could be present? How would you defend for them with code?
 
 ## Ground Rules
 
