@@ -11,7 +11,7 @@ Download this text file, and write some code to:
 * output the minimum, maximum and avg temperatures for each day (hint: first four columns)
 * find the warmest day in the month
 * find the coolest day in the month
-* determine and output the day number (column one) with the smallest temperature spread (the maximum temperature is the second column, the minimum the third column)
+* determine and output the day number (column one) with the smallest temperature difference (the maximum temperature is the second column, the minimum the third column)
 * bonus: show a graph that plots the average temperature through the month
 
 ## Part Two: Soccer League Table
